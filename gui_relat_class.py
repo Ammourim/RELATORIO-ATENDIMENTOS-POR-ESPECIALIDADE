@@ -6,17 +6,22 @@ import json
 from datetime import datetime
 import os
 import sys
-import threading # Importado para multithreading
-import queue    # Importado para comunicação entre threads
+import threading
+import queue
+from dotenv import load_dotenv # Adicione esta importação
+
+# Carrega as variáveis de ambiente do arquivo .env
+load_dotenv()
 
 # --- 1. Configurações de Conexão com o MaxDB ---
+# As variáveis abaixo agora são lidas do arquivo .env
 DB_CONFIG = {
-    'driver': '{MaxDB}',
-    'server': '192.168.170.253',
-    'port': '7210',
-    'database': 'SMART2',
-    'uid': 'DBA',
-    'pwd': 'HJMODBA'
+    'driver': os.getenv('DB_DRIVER'),
+    'server': os.getenv('DB_SERVER'),
+    'port': os.getenv('DB_PORT'),
+    'database': os.getenv('DB_DATABASE'),
+    'uid': os.getenv('DB_UID'),
+    'pwd': os.getenv('DB_PWD')
 }
 
 # --- 2. Mapeamento de Atributos ---
@@ -284,7 +289,7 @@ def process_report_results():
                 
                 result_text_area.insert(tk.END, f"--- {especialidade_chave} ---\n", "subheader")
                 
-                result_text_area.insert(tk.END, f"  Total nesta Especialidade: {especialidade_dados['Total da Especialidade']}\n")
+                result_text_area.insert(tk.END, f"   Total nesta Especialidade: {especialidade_dados['Total da Especialidade']}\n")
                 
                 for class_key, class_value in especialidade_dados.items():
                     if class_key != "Total da Especialidade" and class_value > 0:
