@@ -90,6 +90,4 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou relatar proble
 
 **Alan Amorim Porto**
 
-* [Link para seu LinkedIn] (Se você tiver um)
 
-* [Link para seu GitHub] (Se você tiver outros repositórios)
