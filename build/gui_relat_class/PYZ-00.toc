@@ -1,0 +1,491 @@
+('C:\\Users\\Alan Amorim\\Desktop\\SCRIPT PYTHON PARA EXTRAÇÃO DE DADOS DA '
+ 'COLUNA RCL_TXT\\RELATÓRIO DA '
+ 'CLASSIFICAÇÃO\\build\\gui_relat_class\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Alan '
+   'Amorim\\AppData\\Local\\Programs\\Python\\Python313-32\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])
