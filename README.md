@@ -72,7 +72,6 @@ O software desenvolvido oferece:
      RCL_COD_FILTER=
      ```
 
-   * **Importante:** Certifique-se de que o arquivo `.env` está listado no seu `.gitignore` e **não seja enviado para o GitHub**.
 
 3. **Execução:**
 
